@@ -9,7 +9,7 @@ RTC_DS1307 rtc;
 int Force_VAL = 0;
 int temp = 0;
 int btn = 0;
-int BookLED = 2;
+int BookLED = 13;
 int ForceSensor = A0;
 
 File dataFile;
